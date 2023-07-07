@@ -1,2 +1,2 @@
-# Estatistica-para-MachineLearning
-Estatistica para Machine learning
+# ✨ Estatistica para MachineLearning ✨
+
